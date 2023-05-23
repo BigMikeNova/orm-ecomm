@@ -2,13 +2,17 @@
 
 # 13 Object-Relational Mapping (ORM): E-Commerce Back End
 
-## Your Task
+## GitHub Repository
 
-Internet retail, also known as **e-commerce**, is the largest sector of the electronics industry, generating an estimated $29 trillion in 2019. E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to their prevalence, understanding the fundamental architecture of these platforms will benefit you as a full-stack web developer.
+https://github.com/BigMikeNova/orm-ecomm
 
-Your task is to build the back end for an e-commerce site by modifying starter code. You’ll configure a working Express.js API to use Sequelize to interact with a MySQL database.
+## Link to Video Walkthrough
 
-Because this application won’t be deployed, you’ll also need to provide a link to a walkthrough video that demonstrates its functionality and all of the acceptance criteria being met. You’ll need to submit a link to the video and add it to the readme of your project.
+https://www.loom.com/share/b00676c038514be0882157631fe0d6fd
+
+## Description
+
+Ecommerce backend using Express, Sequelize, and MySQL. This database shows the products, categories, and tags for an ecommerce site.
 
 ## User Story
 
